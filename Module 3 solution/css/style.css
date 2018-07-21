@@ -1,0 +1,27 @@
+.llc{
+	background-color: grey;
+    border-color: grey;
+    border-radius: 0px;
+	}
+.food{
+	color: #000000 !important;
+}	
+.lorem{
+	border: 2px solid black;
+	background-color: grey;
+	font-family: sans-serif;
+	padding: 5px;
+}
+
+.bg_ul {
+	background-color: #ffffff;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-align: center;
+}
+
+.menu-text {
+    background-color: transparent;
+    border: 1px solid#000;
+    color: #000 !important;
+}
